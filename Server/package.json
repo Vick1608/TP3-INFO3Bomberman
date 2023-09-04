@@ -1,0 +1,15 @@
+{
+  "name": "bombermaninfo3-5-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor luiza victoria",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
